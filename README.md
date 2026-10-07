@@ -20,6 +20,11 @@
 - **Visuals:** Profit by month and sub-category, sales by state, top customers, category and payment mode split.
 - **Slicers:** Filter by Quarter and State, with a clean dark theme.
 
+## 💡 Business Impact / Insights
+- Find top-earning states and customers to focus sales efforts.
+- Spot high-profit and low-profit sub-categories to improve product mix.
+- Track monthly profit and payment trends to plan stock and offers.
+
 ## 🚀 Walkthrough
 - Open `Salse_Dashboard.pbit` in Power BI Desktop.
 - Point the file paths to your local `Orders.csv` and `Details.csv`, then click Refresh.
