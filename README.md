@@ -31,4 +31,4 @@
 - Use the slicers to explore sales and profit by quarter and state.
 
 - ## Screenshot of Dashboard :
-- ![Dashboard priview](https://github.com/abhay09sahu-art/Salse_Dashboard/blob/main/DASHBOARD.png)
+- ![Dashboard priview](https://github.com/abhay09sahu-art/Salse_Dashboard/blob/main/Sales_Flow.png)
