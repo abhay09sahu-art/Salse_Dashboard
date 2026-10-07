@@ -29,3 +29,6 @@
 - Open `Salse_Dashboard.pbit` in Power BI Desktop.
 - Point the file paths to your local `Orders.csv` and `Details.csv`, then click Refresh.
 - Use the slicers to explore sales and profit by quarter and state.
+
+- ## Screenshot of Dashboard :
+- https://github.com/abhay09sahu-art/Salse_Dashboard/blob/main/DASHBOARD.png
