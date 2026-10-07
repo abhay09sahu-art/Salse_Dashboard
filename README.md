@@ -1,4 +1,3 @@
-# Salse_Dashboard
 # 📊 Sales Dashboard | Power BI
 
 ## 🎯 Purpose
